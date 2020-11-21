@@ -1,4 +1,4 @@
-## README GENERATOR
+## README generator
 
     ## Description 
     *Your project description:* 
@@ -13,16 +13,16 @@
     ## Usage 
     *Instructions how to use:*
 
-    ## Use this every time you are done with your new project. This will save you time.
+    ## Use it every time you done with your new project to make good readme file!
     
     ## License
 
-    ## Mozilla Public License 2.0,MIT License
+    ## GNU AGPLv3,Mozilla Public License 2.0,MIT License
 
 
     ## Questions?
     *For any questions, please contact me with the information below:*
     ## Juzva8
-    ## laurynas.juzva@gmail.com
+    ## laurynas.jzuva@gmail.com
     
     
