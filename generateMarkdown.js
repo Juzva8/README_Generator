@@ -1,14 +1,31 @@
 function generateMarkdown(data) {
     return `
 
-    ## README.md Generator: Node.js and ES6+
-    ## ${data.Description}
     ## ${data.title}
+
+
+    ## Description 
+    *Your project description:* 
+
+    ## ${data.Description}
+   
+    ## Installation
+    *Steps required to install project running:*
+
     ## ${data.Installation}
+
+    ## Usage 
+    *Instructions how to use:*
+
     ## ${data.Usage}
+    
+    ## License
+
     ## ${data.License}
+
+
     ## Questions?
-    For any questions, please contact me with the information below:
+    *For any questions, please contact me with the information below:*
     ## ${data.github}
     ## ${data.email}
     
