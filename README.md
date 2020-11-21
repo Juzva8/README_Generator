@@ -1,26 +1,23 @@
-
-
-    ## Read me generator
-
+## README GENERATOR
 
     ## Description 
     *Your project description:* 
 
-    ## This is README generator which will make your future projects little bit easier. For me as this was most frustrating part of all. So from now all my projects will be better. 
+    ## This is Readme generator which automatically generate readme.md file for your future projects. This small thing will make your life as developer much easier. It will save you big amount of your precious time!
    
     ## Installation
     *Steps required to install project running:*
 
-    ## You need to navigate to folder where readme generator is located using your terminal. Then you have to run comand npm install and npm inint. 
+    ## You need to navigete to folder where your reamde generator is located using your terminal. After that you will have to run command npm install and npm install init after that. THAT IS IT. It is just simple as it sounds!
 
     ## Usage 
     *Instructions how to use:*
 
-    ## Using your terminal navigate to folder where readme generator is located run comand node index.js and follow instructions.
+    ## Use this every time you are done with your new project. This will save you time.
     
     ## License
 
-    ## undefined
+    ## Mozilla Public License 2.0,MIT License
 
 
     ## Questions?

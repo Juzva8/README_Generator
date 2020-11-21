@@ -1,8 +1,5 @@
 function generateMarkdown(data) {
-    return `
-
-    ## ${data.title}
-
+    return `## ${data.title}
 
     ## Description 
     *Your project description:* 
@@ -21,7 +18,7 @@ function generateMarkdown(data) {
     
     ## License
 
-    ## ${data.License}
+    ## ${data.license}
 
 
     ## Questions?
