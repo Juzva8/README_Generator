@@ -28,7 +28,7 @@ const questions = [{
     },
 
     {
-        type: 'checkbox',
+        type: 'list',
         message: "Choose a license for your project.",
         name: 'license',
         choices: ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0']
