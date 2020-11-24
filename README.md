@@ -1,8 +1,8 @@
 # Readme Generator
-  ![GitHub license](https://img.shields.io/badge/license-GNU LGPLv3-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT License-blue.svg)
 ## Description
 
-  undefined
+  This is Readme generator which automatically generate readme.md file for your future projects. This small thing will make your life as developer much easier. It will save you big amount of your precious time!
 
 ## Table of Contents
   * [Installation](#Installation)
@@ -22,7 +22,7 @@
 
 Use it every time you done with your new project to make good readme file!
 ## License
-  This project is licensed under the GNU LGPLv3 license.
+  This project is licensed under the MIT License license.
 ```
 
 ## Questions
