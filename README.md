@@ -1,4 +1,4 @@
-# Readme generator
+# Buddy 
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   # Table of Contents
 1. [Description](#description)
@@ -9,19 +9,17 @@
 6. [License](#license)
 7. [Questions](#questions)
 ## Description
-* This is Readme generator which automatically generate readme.md file for your future projects. This small thing will make your life as developer much easier. It will save you big amount of your precious time!
+* Buddy is your virtual friend that helps you to release stress and get some time for yourself. It helps to keep you in a good mood by playing music based on what kind of weather is today. Also, it can help you to get recipes when you are hungry. You even can meditate with your buddy or just play a game. 
 ## Installation
-* You need to navigete to folder where your reamde generator is located using your terminal. After that you will have to run command npm install and npm install init after that. THAT IS IT. It is just simple as it sounds!
+* No installation is needed. Just open it in your browser. 
+## Link to deployed version of the app
+* https://juzva8.github.io/README_Generator/
 ## Usage
-* Use it every time you done with your new project to make good readme file!
-
-## Image
-![Test](utils/TEST.gif)
-
+* Use it daily!
 ## Contributing
 * When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.
 ## Tests
-* NO
+* YES
 ## License
 * A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ## Questions
