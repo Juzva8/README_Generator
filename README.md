@@ -1,4 +1,4 @@
-# Buddy 
+# Readme Generator
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
   # Table of Contents
 1. [Description](#description)
@@ -9,13 +9,11 @@
 6. [License](#license)
 7. [Questions](#questions)
 ## Description
-* Buddy is your virtual friend that helps you to release stress and get some time for yourself. It helps to keep you in a good mood by playing music based on what kind of weather is today. Also, it can help you to get recipes when you are hungry. You even can meditate with your buddy or just play a game. 
+* This will make coding much easier by generating readme for you.
 ## Installation
-* No installation is needed. Just open it in your browser. 
-## Link to deployed version of the app
-* https://juzva8.github.io/README_Generator/
+* navigate to file using your terminal, run comand npm i then run comand node index.js and follow instructions.
 ## Usage
-* Use it daily!
+* Use it when you need a readme for your project.
 ## Contributing
 * When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.
 ## Tests
